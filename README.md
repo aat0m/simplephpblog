@@ -45,8 +45,7 @@
 
 1. **下载源码**
    ```bash
-   git clone https://github.com/your-username/blog-system.git
-   cd blog-system
+---AI帮我写的readme 凑合看吧---
    ```
 
 2. **配置数据库**
@@ -76,9 +75,7 @@
    ALTER TABLE posts ADD COLUMN images TEXT;
    ```
 
-### 默认账户
-- **管理员**：用户名 `dongrui`，密码 `123456`
-- **作者**：用户名 `fangxx`，密码 `123456`
+
 
 ## 使用说明
 
